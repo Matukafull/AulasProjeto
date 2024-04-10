@@ -1,7 +1,7 @@
 alert('Bem vindo ao jogo do núuuuumero secreto!!');
 // espaço de declaração de váriáveis
 let numeroSecreto = parseInt(Math.random()*num + 1);
-let num = 50;
+let num = 80;
 console.log(numeroSecreto);
 let chute;
 let tentativas = 1;
